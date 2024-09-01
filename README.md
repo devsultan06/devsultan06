@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sultan Abanikannda</h1>
 <h3 align="center">A passionate frontend web developer from Nigeria</h3>
 
-<p align="left"> <a href="https://twitter.com/devsultan01" target="blank"><img src="https://img.shields.io/twitter/follow/devsultan01?logo=twitter&style=for-the-badge" alt="devsultan01" /></a> </p>
+<p align="left"> <a href="https://twitter.com/devsultan06" target="blank"><img src="https://img.shields.io/twitter/follow/devsultan06?logo=twitter&style=for-the-badge" alt="devsultan06" /></a> </p>
 
 - 🔭 I’m currently working on [StreamVibe](https://github.com/devsultan06/StreamVibe)
 
