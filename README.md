@@ -70,9 +70,9 @@ I specialize in creating dynamic, scalable, and visually appealing web applicati
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="50%" >
 
-<img src="https://github-readme-stats.vercel.app/api?username=devsultan06&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=devsultan06&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%;height:100%" />
 
 </td><td valign="top" width="50%">
 
@@ -80,15 +80,11 @@ I specialize in creating dynamic, scalable, and visually appealing web applicati
 
 </td></tr></table>  
 
-<br/>  
 
-  
-
-<br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=devsultan06&&style=flat-square)  
   
 
 <br/>  
 
-<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=devsultan06&theme=tokyonight" alt="devsultan06" /></p>
+
