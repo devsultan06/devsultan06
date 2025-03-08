@@ -70,15 +70,10 @@ I specialize in creating dynamic, scalable, and visually appealing web applicati
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%" >
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devsultan06&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="devsultan06" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=devsultan06&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%;height:100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsultan06&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devsultan06&show_icons=true&locale=en&theme=tokyonight" alt="devsultan06" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devsultan06&theme=tokyonight" alt="devsultan06" /></p>
 
 
 
