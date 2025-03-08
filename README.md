@@ -40,9 +40,6 @@ I specialize in creating dynamic, scalable, and visually appealing web applicati
 - ⚡ Fun fact: I keep night shift swithed on at all times   
 
 
-</td><td valign="top" width="50%">
-
-
 </td></tr></table>  
 
 <br/>  
