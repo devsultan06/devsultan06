@@ -28,7 +28,7 @@ I specialize in creating dynamic, scalable, and visually appealing web applicati
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Sporta AI](https://github.com/Sporta-AI/sportaai)  
+- 🔭 I’m currently working on [Sporta AI](https://github.com/devsultan06/sportaai)  
   
 
 - 🌱 I’m currently learning React Native and Next Js  
