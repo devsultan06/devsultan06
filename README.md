@@ -17,7 +17,7 @@
 ### Glad to see you here!  
 I’m a front-end engineer who has turned years of freelancing into a full-time career. Being a front-end engineer allows me to not only develop client-facing apps and websites but also build them with cutting-edge technologies and high-performance architectures.
 
-I specialize in creating dynamic, scalable, and visually appealing web applications that deliver seamless user experiences. I love designing interfaces that are intuitive yet powerful, modern yet efficient, and accessible to all users. I also frequently explore the world behind the screen, diving into topics like performance optimization, UI/UX best practices, system design.
+I specialize in creating dynamic, scalable, and visually appealing web applications that deliver seamless user experiences. I love designing interfaces that are intuitive yet powerful, modern yet efficient, and accessible to all users. I also frequently explore the world behind the screen, diving into topics like performance optimization, system design.
 
   
   
