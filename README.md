@@ -15,7 +15,7 @@
 
 
 ### Glad to see you here!  
-I’m a swe
+I’m a swe. OSS Contributor. Wanna learn and ship good stuffs. 
 
   
   
