@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Asera**
 
-- 👨‍💻 All of my projects are available at [https://devsultan.vercel.app/](https://devsultan.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://devsultan.app/](https://devsultan.app/)
 
 - 📫 How to reach me **sultanabaniks@gmail.com**
 
